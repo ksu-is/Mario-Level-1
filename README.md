@@ -1,9 +1,11 @@
-Super Mario Bros Level 1
+Super Mario Bros Level 1 - UNIQUE VERSION
 =============
 
-An attempt to recreate the first level of Super Mario Bros.
+This is my attempt of creating my own unique version of the game Super Mario Bros. I plan on doing so by keeping the main functions of this code, while adding my own graphics and sounds. 
 
-![screenshot](https://raw.github.com/justinmeister/Mario-Level-1/master/screenshot.png)
+![screenshot](https://raw.github.com/justinmeister/Mario-Level-1/master/screenshot.png) Original Version
+
+(screenshot) My Version
 
 CONTROLS: 
 

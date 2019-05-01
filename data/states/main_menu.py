@@ -77,7 +77,7 @@ class Menu(tools._State):
                                    (int(rect.width*c.SIZE_MULTIPLIER),
                                     int(rect.height*c.SIZE_MULTIPLIER)))
         else:
-            image.set_colorkey(c.BLACK)
+            image.set_colorkey(c.GREEN)
             image = pg.transform.scale(image,
                                    (int(rect.width*3),
                                     int(rect.height*3)))
